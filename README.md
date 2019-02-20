@@ -1,0 +1,1 @@
+The dataset for image-dogs can be obtained on kaggle.
